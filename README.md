@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-![alt text](image.png)
-=======
+
 from youtube tutorial
 ````js
 const display = document.getElementById('display');
