@@ -30,4 +30,3 @@ function calculate() {
 
 
 <img width="640" alt="image" src="https://github.com/w77sh/JS-calculator/assets/74508174/7855c07a-5411-48ff-8428-1c5cb8fd5224">
->>>>>>> d512ff03b02a959498291d983d7ae8fbb3b33014
